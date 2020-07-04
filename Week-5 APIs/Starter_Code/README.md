@@ -11,20 +11,20 @@ Based on income data pulled from Plaid API, the following data was analysed.
 The following expense heads were analyzed.
 | Category      | Amount |
 | ----------- | ----------- |
-| Food and Drink | 1105.73
-Payment      |   2103.50
-Recreation   |     78.50
-Shops        |    500.00
-Transfer    |    6845.78
-Travel       |     11.73       
+| Food and Drink | 3317.19
+Payment      |   6310.50
+Recreation   |     235.50
+Shops        |    1500.00
+Transfer    |    20537.34
+Travel       |     35.19       
 
 This data can be viewed visually through a pie chart also.
 ![Expenses per category](expenses_pie.png)
 
 
 
-In this period, the person did not spent any money in the months of April or May but spent $10645.24 in the month of June. This is shown in the graph below.
-![Total monthly expenses](expense_bar.png)
+In this period, the person spent $10645.24 each in the previous three months. This is shown in the graph below.
+![Total monthly expenses](expense_bar3.png)
 
 # Retirement Planning
 In this section, we analyse the performance of a portfolio which consists of stocks and bonds through a simulation based on Monte Carlo model using the historical price data of last one year.
