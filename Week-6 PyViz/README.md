@@ -4,5 +4,5 @@ This assignment analyses and creates visualisations for Real Estate Investment d
 
 In this homework assignment, we have helped Harold accomplish the following tasks:
 
-1. Complete a notebook of rental analysis
-2. Create a dashboard of interactive visualizations to explore the market data
+1. Complete a jupyter notebook of rental analysis
+2. Create a PyViz dashboard of interactive visualizations to explore the market data
